@@ -1,0 +1,15 @@
+[
+  {
+    "version": "1.4.5",
+    "date": "2026-06-07",
+    "items": [
+      {"type": "fix", "text": "시간표를 불러오지 않는 큰 오류 수정"},
+      {"type": "add", "text": "시작 화면 추가 (시간표 변동)"},
+      {"type": "fix", "text": "변동된 시간표는 이제부터 별표와 빨간색 마크 처리됨"}
+    ]
+  }
+]
+// you can configure the items' type.
+// add : literally add.
+// fix : fix a bug or an issue
+// remove : remove. literally.
