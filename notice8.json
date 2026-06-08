@@ -1,7 +1,8 @@
 {
   "id": "notice-001",
-  "tag": "테스트",
-  "title": "Welcome to your new environment!",
-  "body": "공지사항을 변경하려면: https://cl-stone.vercel.app으로 이동하세요.\n(기본 비밀번호는 3838입니다.)",
-  "date": "2026-06-08"
+  "tag": "공지사항",
+  "title": "1학기 2회시험",
+  "body": "평가 범위입니다.",
+  "date": "2026-06-08",
+  "imageUrl": "https://raw.githubusercontent.com/NothingButAUser/pn/main/images/notice-001-1780896293783.png"
 }
