@@ -1,8 +1,7 @@
 {
   "id": "notice-001",
-  "tag": "공지사항",
-  "title": "햄버거와 콜라",
-  "body": "콜라와 햄버거",
-  "date": "2026-06-08",
-  "imageUrl": "https://raw.githubusercontent.com/NothingButAUser/pn/main/images/notice-001-1780890935482.png"
+  "tag": "테스트",
+  "title": "Welcome to your new environment!",
+  "body": "공지사항을 변경하려면: https://cl-stone.vercel.app으로 이동하세요.\n(기본 비밀번호는 3838입니다.)",
+  "date": "2026-06-08"
 }
