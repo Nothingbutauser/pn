@@ -1,8 +1,7 @@
 {
   "id": "notice-001",
-  "tag": "정기고사",
-  "title": "1학기 2회시험",
-  "body": "평가 범위입니다.",
-  "date": "2026-06-08",
-  "imageUrl": "https://raw.githubusercontent.com/NothingButAUser/pn/main/images/notice-001-1780892917335.png"
+  "tag": "수행평가",
+  "title": "과학 수행평가",
+  "body": "6월 15일 월요일 실시\n평가: 논술형(20%)\n범위:\n1 - 평균 속력 (95p.)\n2 - 자동차의 속력, 제동거리 (116p.)\n3 -  속력과 운동E로 보는 어린이 보호 구역 (118~119p.)\n4 - 과속 구간 단속 장치 (123p.)\n!! 사전 조사가 필요한 수행평가입니다 !!",
+  "date": "2026-06-15"
 }
