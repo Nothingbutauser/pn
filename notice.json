@@ -1,7 +1,10 @@
 {
   "id": "notice-001",
-  "tag": " ",
-  "title": " ",
-  "body": " ",
-  "date": "2026-09-18"
+  "type": "quiz",
+  "tag": "문제",
+  "title": "역사2 문제",
+  "body": "",
+  "date": "2026-09-19",
+  "answer": 3,
+  "imageUrl": "https://raw.githubusercontent.com/NothingButAUser/pn/main/images/notice-001-1789788883666.jpg"
 }
