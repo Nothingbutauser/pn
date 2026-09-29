@@ -1,10 +1,9 @@
 {
-  "id": "notice-001",
-  "type": "quiz",
-  "tag": "문제",
-  "title": "영어3",
-  "body": "",
-  "date": "2026-09-28",
-  "answer": 2,
-  "imageUrl": "https://raw.githubusercontent.com/NothingButAUser/pn/main/images/notice-001-1790572968240.png"
+  "id": "Tell T",
+  "type": "text",
+  "tag": "공지사항",
+  "title": "화장실 사용 주의",
+  "body": "화장실 사용 시 휴지/오물투척,체육복방치,시설물 파손 금지!!!",
+  "date": "2026-09-29",
+  "imageUrl": "https://raw.githubusercontent.com/NothingButAUser/pn/main/images/Tell T-1790661775195.png"
 }
