@@ -1,5 +1,18 @@
 [
   {
+    "savedAt": "2026-09-29T07:22:03.437Z",
+    "reason": "deleted",
+    "notice": {
+      "id": "Tell T",
+      "type": "text",
+      "tag": "공지사항",
+      "title": "화장실 사용 주의",
+      "body": "화장실 사용 시 휴지/오물투척,체육복방치,시설물 파손 금지!!!",
+      "date": "2026-09-29",
+      "imageUrl": "https://raw.githubusercontent.com/NothingButAUser/pn/main/images/Tell T-1790661775195.png"
+    }
+  },
+  {
     "savedAt": "2026-09-29T07:08:37.210Z",
     "reason": "deleted",
     "notice": {
