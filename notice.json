@@ -1,9 +1,9 @@
 {
-  "id": "Tell T",
+  "id": "notice-001",
   "type": "text",
-  "tag": "공지사항",
-  "title": "화장실 사용 주의",
-  "body": "화장실 사용 시 휴지/오물투척,체육복방치,시설물 파손 금지!!!",
-  "date": "2026-09-29",
-  "imageUrl": "https://raw.githubusercontent.com/NothingButAUser/pn/main/images/Tell T-1790661775195.png"
+  "tag": "정기고사",
+  "title": "2학기 정기시험 일정",
+  "body": "2학기 정기시험은 각 과목별 반영점수 60%입니다.",
+  "date": "2026-10-02",
+  "imageUrl": "https://raw.githubusercontent.com/NothingButAUser/pn/main/images/notice-001-1790918691901.png"
 }
