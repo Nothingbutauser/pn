@@ -1,5 +1,18 @@
 [
   {
+    "savedAt": "2026-10-14T03:42:27.064Z",
+    "reason": "replaced",
+    "notice": {
+      "id": "notice-001",
+      "type": "text",
+      "tag": "정기고사",
+      "title": "2학기 정기시험 일정",
+      "body": "2학기 정기시험은 각 과목별 반영점수 60%입니다.",
+      "date": "2026-10-02",
+      "imageUrl": "https://raw.githubusercontent.com/NothingButAUser/pn/main/images/notice-001-1790918691901.png"
+    }
+  },
+  {
     "savedAt": "2026-10-02T05:24:53.906Z",
     "reason": "replaced",
     "notice": {
