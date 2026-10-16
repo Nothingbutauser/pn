@@ -1,9 +1,9 @@
 {
   "id": "notice-001",
   "type": "text",
-  "tag": "공지사항",
-  "title": "2학기 정기시험 일정 + 시험범위",
-  "body": "국어* - 2.문학으로 느끼는 삶 ~ 4-(1). 논리적으로 읽기 (58~183p)\n사회 - VII. 인구 변화와 인구 문제 ~ XI-1. 우리나라의 영역과 독도 (122~203p.)\n역사* - IV. 조선의 성립과 발전 ~ V. 조선사회의 변동 (100~153p.)\n수학 - V. 삼각비 ~ VI. 통계 1. 대표값과 산포도 (교과서 144~230쪽)\n과학* - IV-(2) 자극의 전달과 반응 ~ VI-(1) 역학적 에너지 전환과 보존 (교과서 140~223쪽)\n기술·가정 - IV. 수송기술과 신재생 에너지 ,VI. 생명기술과 적정기술 (교과서 132~151, 158~165, 214~247)\n영어* - Lesson 5. Environmental Innovations ~ Lesson 7. Future Changes through Technology (교과서 96~161쪽)\n* -> 학습지 포함",
-  "date": "2026-10-14",
-  "imageUrl": "https://raw.githubusercontent.com/NothingButAUser/pn/main/images/notice-001-1791949344957.png"
+  "tag": "정기고사",
+  "title": "기술가정 정기시험 힌트",
+  "body": "137p, 138-139p, 144p, 145p, 146p, 147p, 149p, 160p,\n161p, 162-163p, 164p, 217p, 220-223p, 224-225p,\n227p, 232p, 234-235p, 241p, 242p, 246-247p\n언급되지 않은 곳에서 1-2문항 출제될 수 있음.",
+  "date": "2026-10-16",
+  "imageUrl": "https://raw.githubusercontent.com/NothingButAUser/pn/main/images/notice-001-1792124345105.jpg"
 }
