@@ -1,9 +1,10 @@
 {
   "id": "notice-001",
-  "type": "text",
-  "tag": "정기고사",
-  "title": "기술가정 정기시험 힌트",
-  "body": "137p, 138-139p, 144p, 145p, 146p, 147p, 149p, 160p,\n161p, 162-163p, 164p, 217p, 220-223p, 224-225p,\n227p, 232p, 234-235p, 241p, 242p, 246-247p\n언급되지 않은 곳에서 1-2문항 출제될 수 있음.",
-  "date": "2026-10-16",
-  "imageUrl": "https://raw.githubusercontent.com/NothingButAUser/pn/main/images/notice-001-1792124345105.jpg"
+  "type": "quiz",
+  "tag": "문제",
+  "title": "제망매가 갈래 문제",
+  "body": "",
+  "date": "2026-10-22",
+  "answer": 4,
+  "imageUrl": "https://raw.githubusercontent.com/NothingButAUser/pn/main/images/notice-001-1792637182039.png"
 }
