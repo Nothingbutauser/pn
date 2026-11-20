@@ -1,5 +1,18 @@
 [
   {
+    "savedAt": "2026-11-20T01:51:49.627Z",
+    "reason": "replaced",
+    "notice": {
+      "id": "Tell T",
+      "type": "text",
+      "tag": "공지사항",
+      "title": "3학년2학기 정기시험 시상",
+      "body": "목표점수-실제점수 제일 가까운 상위 5명에게 시상",
+      "date": "2026-11-11",
+      "imageUrl": "https://raw.githubusercontent.com/NothingButAUser/pn/main/images/Tell T-1794375022932.png"
+    }
+  },
+  {
     "savedAt": "2026-11-11T05:30:26.229Z",
     "reason": "replaced",
     "notice": {
