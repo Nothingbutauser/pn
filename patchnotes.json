@@ -1,9 +1,17 @@
 [
   {
+    "version": "1.7.2",
+    "date": "2026-11-24",
+    "items": [
+      {"type": "fix", "text": "PICTURE MODE OVERHAUL\n픽쳐 모드는 이제 인터넷에서 랜덤 사진을\n배경으로 10분마다 변경함"},
+      {"type": "fix", "text": "컴시간 구조 변경에 따른 로직 변경"}
+    ]
+  },
+  {
     "version": "1.7.1_HOTFIX3",
     "date": "2026-11-11",
     "items": [
-      {"type": "fix", "text": "Although for one of you the darkest pits of hell is waiting for you, so dont keep the devil waiting. (they changed the structure again oh my god bros)"}
+      {"type": "fix", "text": "컴시간 구조 변경 컴시간 구조 변경 컴시간 구조 변경"}
     ]
   },
   {
